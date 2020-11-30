@@ -1,0 +1,1 @@
+jt -t monokai -f source -fs 12 -nf ptsans -nfs 11 -N -kl -cursw 2 -cursc r -cellw 60% -T -ofs 12
