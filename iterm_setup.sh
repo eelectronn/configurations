@@ -22,11 +22,12 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 # Install powerlevel10k for powerline in iterm
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
-
+# Set theme to powerline10k/powerline10k in .zshrc
 # Use p10k configure to setup the prompts.
 
 # Download the plugin for autosuggestions
 git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+# Add zsh-autosuggestions in plugins in .zshrc
 
 # Download syntax highlighting
 brew install zsh-syntax-highlighting
