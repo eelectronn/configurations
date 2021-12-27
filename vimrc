@@ -17,7 +17,6 @@ Plugin 'jnurmine/Zenburn'
 Plugin 'kien/ctrlp.vim'
 Plugin 'tpope/vim-fugitive'
 Plugin 'gryf/wombat256grf'
-Plugin 'preservim/nerdtree'
 
 " add all your plugins here (note older versions of Vundle
 " used Bundle instead of Plugin)
