@@ -30,6 +30,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/z
 # Add zsh-autosuggestions in plugins in .zshrc
 
 # Download syntax highlighting
-brew install zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+# Add zsh-syntax-highlighting in plugins in .zshrc
 
 # Download the file .zshrc from repo
